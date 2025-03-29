@@ -1,1 +1,1 @@
-This is demo repository for learning purpose only
+This is demo repository for learning purpose only.
